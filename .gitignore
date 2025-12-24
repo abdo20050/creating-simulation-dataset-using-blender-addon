@@ -2,3 +2,4 @@ vid_output/*
 img_output/*
 temp/*
 .DS_Store
+assets/*
