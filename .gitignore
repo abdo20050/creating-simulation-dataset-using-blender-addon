@@ -1,5 +1,12 @@
 vid_output/*
 img_output/*
+vid_output_jupedsim/*
+img_output_jupedsim/*
 temp/*
 .DS_Store
-assets/*
+simulation_dataset.zip
+*.blend1
+
+# Ensure asset directory is tracked
+!asset/
+!asset/*
